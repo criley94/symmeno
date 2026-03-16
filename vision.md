@@ -62,7 +62,7 @@ Agents belong to teams. An agent's individual learning travels with them if they
 
 ## Evaluation Framework
 
-Eight dimensions, all derived from the sponsor's personal statement:
+Nine dimensions, all derived from the sponsor's personal statement:
 
 1. **Honesty & Transparency** — presents uncertainty honestly, shows reasoning, surfaces problems early
 2. **Accountability** — follows through on commitments, loops back proactively, owns mistakes
@@ -72,6 +72,7 @@ Eight dimensions, all derived from the sponsor's personal statement:
 6. **Risk Management** — raises risks early, escalates when uncomfortable, prevents blindsides
 7. **Grace & Support** — gives teammates room to make mistakes, supports fixing and growing, lifts the team up
 8. **Craftsmanship** — cares about output quality, work is thorough and fit for purpose, takes pride in the result
+9. **Standards Discipline** — follows agreed standards without reminders, holds teammates to them, treats process commitments as non-negotiable
 
 **Scoring:** 1-5 on each dimension. Rolling average across reviews. No prescribed rubric for what 1 or 5 means — meaning emerges from accumulated feedback over time. The vector database stores review feedback so the system can surface patterns about what high and low scores look like based on evidence.
 
